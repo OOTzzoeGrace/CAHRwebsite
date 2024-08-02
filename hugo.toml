@@ -17,10 +17,10 @@ pygmentsCodefencesGuessSyntax = true
 publishDir = "docs"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "中華國際人權促進會" # Set a different text for the header on the home page
   subtitle = "漂亮美麗的subtitle"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/cahr-icon.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
