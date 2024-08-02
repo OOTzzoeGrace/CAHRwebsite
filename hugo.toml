@@ -16,8 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 publishDir = "docs"
-relativeURLs = true
-canonifyURLs = false
+
 [Params]
   homeTitle = "中華國際人權促進會" # Set a different text for the header on the home page
   subtitle = "國際青少年人權協會 台灣分會"
