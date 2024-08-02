@@ -1,5 +1,6 @@
-#baseurl = "https://username.github.io"
-baseurl = "https://ootzzoegrace.github.io/"
+# baseurl = "https://username.github.io"
+baseurl = "https://ootzzoegrace.github.io/CAHRwebsite/"
+# baseurl = "http://127.0.0.1:5500/"
 DefaultContentLanguage = "en"
 title = "中華國際人權促進會"
 # Using theme as git submodule 
@@ -15,7 +16,8 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 publishDir = "docs"
-
+relativeURLs = true
+canonifyURLs = false
 [Params]
   homeTitle = "中華國際人權促進會" # Set a different text for the header on the home page
   subtitle = "國際青少年人權協會 台灣分會"

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on 中華國際人權促進會</title>
-    <link>https://ootzzoegrace.github.io/tags/code/</link>
+    <link>https://ootzzoegrace.github.io/CAHRwebsite/tags/code/</link>
     <description>Recent content in Code on 中華國際人權促進會</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>cahr1210@gmail.com (協會小編)</managingEditor>
     <webMaster>cahr1210@gmail.com (協會小編)</webMaster>
     <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ootzzoegrace.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ootzzoegrace.github.io/CAHRwebsite/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Sample</title>
-      <link>https://ootzzoegrace.github.io/post/2016-03-08-code-sample/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2016-03-08-code-sample/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
   </channel>
