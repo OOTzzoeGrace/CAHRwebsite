@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中華國際人權促進會</title>
-    <link>https://ootzzoegrace.github.io/</link>
+    <link>https://ootzzoegrace.github.io/CAHRwebsite/</link>
     <description>Recent content on 中華國際人權促進會</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>cahr1210@gmail.com (協會小編)</managingEditor>
     <webMaster>cahr1210@gmail.com (協會小編)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ootzzoegrace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ootzzoegrace.github.io/CAHRwebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoswipe Gallery Sample</title>
-      <link>https://ootzzoegrace.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2017-03-20-photoswipe-gallery-sample/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2017-03-20-photoswipe-gallery-sample/</guid>
-      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;https://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xD;&#xA;&#x9;  &#xD;&#xA;  &#xD;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://ootzzoegrace.github.io/css/hugo-easy-gallery.css&#34; /&gt;&#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ootzzoegrace.github.io//img/hexagon-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;./img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;./img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ootzzoegrace.github.io//img/sphere-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;./img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;./img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;        &lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Sphere&lt;/p&gt;&#xD;&#xA;        &lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ootzzoegrace.github.io//img/triangle-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;./img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;./img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;        &lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Triangle&lt;/p&gt;&#xD;&#xA;        &lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;https://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xD;&#xA;&#x9;  &#xD;&#xA;  &#xD;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://ootzzoegrace.github.io/CAHRwebsite/css/hugo-easy-gallery.css&#34; /&gt;&#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ootzzoegrace.github.io/CAHRwebsite//img/hexagon-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;./img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;./img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ootzzoegrace.github.io/CAHRwebsite//img/sphere-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;./img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;./img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;        &lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Sphere&lt;/p&gt;&#xD;&#xA;        &lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xD;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ootzzoegrace.github.io/CAHRwebsite//img/triangle-thumb.jpg&#39;);&#34;&gt;&#xD;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;./img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;a href=&#34;./img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xD;&#xA;        &lt;figcaption&gt;&#xD;&#xA;            &lt;p&gt;Triangle&lt;/p&gt;&#xD;&#xA;        &lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Big Image Sample</title>
-      <link>https://ootzzoegrace.github.io/post/2017-03-07-bigimg-sample/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2017-03-07-bigimg-sample/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2017-03-07-bigimg-sample/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2017-03-07-bigimg-sample/</guid>
       <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Sample</title>
-      <link>https://ootzzoegrace.github.io/post/2017-03-05-math-sample/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2017-03-05-math-sample/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/KaTeX/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;https://katex.org/&#34;&gt;project homepage&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code Sample</title>
-      <link>https://ootzzoegrace.github.io/post/2016-03-08-code-sample/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2016-03-08-code-sample/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flake it till you make it</title>
-      <link>https://ootzzoegrace.github.io/post/2015-02-26-flake-it-till-you-make-it/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-02-26-flake-it-till-you-make-it/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-02-26-flake-it-till-you-make-it/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-02-26-flake-it-till-you-make-it/</guid>
       <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
     </item>
     <item>
       <title>Test markdown</title>
-      <link>https://ootzzoegrace.github.io/post/2015-02-20-test-markdown/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-02-20-test-markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-02-20-test-markdown/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-02-20-test-markdown/</guid>
       <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.&#xA;Here is some bold text&#xA;Here is a secondary heading Here&amp;rsquo;s a useless table:&#xA;Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe?</description>
     </item>
     <item>
       <title>To be</title>
-      <link>https://ootzzoegrace.github.io/post/2015-02-13-hamlet-monologue/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-02-13-hamlet-monologue/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-02-13-hamlet-monologue/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-02-13-hamlet-monologue/</guid>
       <description>To be, or not to be&amp;ndash;that is the question: Whether &amp;rsquo;tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep&amp;ndash; No more&amp;ndash;and by a sleep to say we end The heartache, and the thousand natural shocks That flesh is heir to. &amp;lsquo;Tis a consummation Devoutly to be wished. To die, to sleep&amp;ndash; To sleep&amp;ndash;perchance to dream: ay, there&amp;rsquo;s the rub, For in that sleep of death what dreams may come When we have shuffled off this mortal coil, Must give us pause.</description>
     </item>
     <item>
       <title>Dear diary</title>
-      <link>https://ootzzoegrace.github.io/post/2015-01-27-dear-diary/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-27-dear-diary/</link>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-01-27-dear-diary/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-27-dear-diary/</guid>
       <description>What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don&amp;rsquo;t hear in those nursery rhymes is that she starves me if I don&amp;rsquo;t go to school with her; it&amp;rsquo;s the only way I can stay alive! I&amp;rsquo;m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).</description>
     </item>
     <item>
       <title>Soccer</title>
-      <link>https://ootzzoegrace.github.io/post/2015-01-19-soccer/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-19-soccer/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-01-19-soccer/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-19-soccer/</guid>
       <description>From Wikipedia:&#xA;Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world&amp;rsquo;s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</description>
     </item>
     <item>
       <title>Pirates arrrr</title>
-      <link>https://ootzzoegrace.github.io/post/2015-01-15-pirates/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-15-pirates/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-01-15-pirates/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-15-pirates/</guid>
       <description>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</description>
     </item>
     <item>
       <title>First post!</title>
-      <link>https://ootzzoegrace.github.io/post/2015-01-04-first-post/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-04-first-post/</link>
       <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/post/2015-01-04-first-post/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/post/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!&#xA;這是新的blog</description>
     </item>
     <item>
       <title>Samples</title>
-      <link>https://ootzzoegrace.github.io/samples/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/samples/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/samples/</guid>
       <description>這是 Samples 頁面的內容。這個頁面將作為 samples 菜單項的目標頁面。</description>
     </item>
     <item>
       <title>國際人權大使</title>
-      <link>https://ootzzoegrace.github.io/about/member-intro/international-human-rights-ambassador/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/about/member-intro/international-human-rights-ambassador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/about/member-intro/international-human-rights-ambassador/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/about/member-intro/international-human-rights-ambassador/</guid>
       <description> 國際人權大使 台灣代表 </description>
     </item>
     <item>
       <title>執行長、職員</title>
-      <link>https://ootzzoegrace.github.io/about/member-intro/ceo-and-staff/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/about/member-intro/ceo-and-staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/about/member-intro/ceo-and-staff/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/about/member-intro/ceo-and-staff/</guid>
       <description></description>
     </item>
     <item>
       <title>理監事</title>
-      <link>https://ootzzoegrace.github.io/about/member-intro/directors-and-supervisors/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/about/member-intro/directors-and-supervisors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/about/member-intro/directors-and-supervisors/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/about/member-intro/directors-and-supervisors/</guid>
       <description>社團法人中華國際人權促進會 第六屆理監事 職別 姓名 理事長 黃卉婧 常務理事 林玟玲 常務理事 簡名辰 理事 賴建安 理事 敬梅芳 理事 周子良 理事 李胤顏 理事 陳亮光 理事 廖蓓琦 監事長 吳英辰 監事 楊雅惠 監事 黃月裡 </description>
     </item>
     <item>
       <title>緣起及宗旨</title>
-      <link>https://ootzzoegrace.github.io/about/origin-and-purpose/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/about/origin-and-purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/about/origin-and-purpose/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/about/origin-and-purpose/</guid>
       <description>緣起 中華國際人權促進會是國際青少年人權協會的台灣分會，是由一群關心青少年人權教育的顆伴於2007年創立，為內政部登記之全國性社會團體，創辦人與理事長為許雅琛女士。&#xA;人權教育在台灣正要發芽，唯有更完整的知識才能幫助人權教育推廣。在本協會的一份問卷中，有85％的人不了解人權的內容，人權教育更要廣為大眾推廣。 藉以國際青少年人權協會所編製的教材來幫助教師及有心人權教育者推廣。&#xA;宗旨及願景 青少年是我們的未來，而人權教育可以讓青少年學習互相尊重。在做人權教育時，不只是教導人有哪些權利，還需要告訴青少年盡義務與負起責任的重要性。 青少年也能從過程中學會保護自己不被侵犯，讓他們學習有哪些方法、哪些管道可以求助，當人權被侵犯的時候要怎麼處理等等。&#xA;引進國際人權 藉由宣導聯合國所訂定的「世界人權宣言」，讓青少年、甚至一般民眾瞭解他們所擁有的基本權利，使社會各層面能夠將這30條基本權利落實在生活中，建立一個民主、自由、理性的社會。這個部份，將透過青少年人權委員會的設立，來與國際青少年人權協會(Youth for Human Rights International)的相關活動接軌，目標是要求落實世界人權宣言，使人權在全球實現。&#xA;瑪麗‧薛德華茲博士&#xA;國際青少年人權協會 創始人兼會長 瑪麗‧薛德華茲在種族隔離的南非出生和成長。她親眼目睹了種族歧視以及缺乏基本人權所造成的毀滅性影響。 少年時期，她周遊歐洲各國。她在就學和旅行期間，發現有更多的種族歧視，並瞭解到人權侵害問題已遠佈各地，而不只是南非的問題。薛德華茲女士確信教育是改善情況的長遠之計，她在菲爾汀研究院取得教育領導與變革的博士學位。&#xA;薛德華茲女士身為兩個孩子的母親，也是個稱職的祖母，於1998年在洛杉磯創立生平第一個非營利團體，並開辦私立學校。三年後，亦即2001年，她創立了一個非營利機構：國際青少年人權協會(YHRI)。YHRI旨在教導青少年人權，尤其教導他們聯合國《世界人權宣言》。&#xA;你可以投入的工作，包括： 一、協助青少年人權委員會及其分會的設立與運作；&#xA;二、拜訪重要的意見領袖像是民代、官員、與其他公益團體，使他們了解並接納我們的人權運動；&#xA;三、廣泛送出國際青少年人權協會製作發行的人權公益廣告，給意見領袖、社區領導者、官員、民代與教育家，使他們更容易接觸到這些訊息；&#xA;四、在各地廣泛透過媒體或其他公播管道，安排播放國際青少年人權協會製作發行的人權公益廣告；&#xA;五、讓國際青少年人權協會發行的《團結在一起(UNITED)》人權教育手冊，在學校、青少年團體與其他社區專案中推行，教導兒童與青少年真正的人權；&#xA;六、參予相關人權活動／會議，也可舉辦活動／會議，達成人權訊息之交流，進一步宣揚人權教育活動，並藉此創造更加的同盟與媒體關係。</description>
     </item>
     <item>
       <title>關於我們</title>
-      <link>https://ootzzoegrace.github.io/about/aboutus/</link>
+      <link>https://ootzzoegrace.github.io/CAHRwebsite/about/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cahr1210@gmail.com (協會小編)</author>
-      <guid>https://ootzzoegrace.github.io/about/aboutus/</guid>
+      <guid>https://ootzzoegrace.github.io/CAHRwebsite/about/aboutus/</guid>
       <description>本會宗旨為：「發揚『世界人權宣言』精神，維護人權，及促進人權教育。」 本會任務如下：&#xA;一、推動各項宣達活動，闡述聯合國「世界人權宣言」之精神與意涵。&#xA;二、蒐集國內外有關人權研究成果，並促進國際間有關學術交流。&#xA;三、結合國內外人權組織發展經驗，舉辦活動，推展人權教育。&#xA;四、規劃各種研習活動，增進會員學習風氣，並協助學校與社區辦理相關活動。&#xA;五、舉辦研討會、座談會、演講會等活動，導正觀念，並防止侵犯人權事件之發生。&#xA;六、加強聯絡新聞媒體，刊佈維護人權之優良事蹟。&#xA;本會工作主軸：「基本人權教育」&#xA;藉由宣導聯合國所訂定的「世界人權宣言」，讓青少年、甚至一般民眾瞭解他們所擁有的基本權利，使社會各層面能夠將這30條基本權利落實在生活中，建立一個民主、自由、理性的社會。這個部份，將透過青少年人權委員會的設立，來與國際青少年人權協會(Youth for Human Rights International)的相關活動接軌，目標是要求落實世界人權宣言，使人權在全球實現。&#xA;國際青少年人權協會同時在校園和傳統教育體系之外教導人權教育。目標在於接觸各個不同領域的人，所使用教材也受到各個年齡層的歡迎。透過開會、研習班、嘻哈歌舞和舞蹈活動來教導人權，把人權的訊息散佈全球，深入每個大陸和許多國家。&#xA;這些教材包含《團結在一起》音樂錄影帶，這是一部通俗、多元種族、反霸凌五分鐘長的影片，吸引全球各地的目光。我們30則公益廣告描述30條聯合國世界人權宣言。這些公益廣告在全球各地媒體不斷放送，青少年不用一分鐘可以學到其中一則人權。不僅如此，影片也在足球賽中場休息時間的巨型看板、計程車內的小螢幕、大型超市看板、劇院、火車站等各公共區域播放。&#xA;我們鼓勵大眾和青少年團體以及孤兒院童去散步、賽車、畫壁畫和舉辦大型戶外演唱會及小型聚會。&#xA;我們的人權錄影帶和課程以簡單人權教育內容，來滿足校園和學習殿堂。&#xA;如欲取得更多訊息，可洽中華國際人權促進會：&#xA;電話︰02-2393-6363&#xA;傳真︰02-2391-2158&#xA;秘書處：0970-725-760&#xA;email︰cahr1210@gmail.com&#xA;my history To be honest, I&amp;rsquo;m</description>
     </item>
   </channel>
