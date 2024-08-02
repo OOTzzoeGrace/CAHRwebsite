@@ -10,6 +10,110 @@ body {
   flex-flow: column;
   height: 100vh;
 }
+
+/* 新增 */
+/* 确保这是你现有的CSS文件的一部分，或者新建一个文件，并在你的布局中引用它 */
+/* 
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu > a:after {
+  display: block;
+  content: " ";
+  float: right;
+  border: solid transparent;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #ccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+  border-left-color: #fff;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu > a:after {
+  content: " ";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: .255em;
+  vertical-align: .255em;
+  border: .3em solid transparent;
+  border-left-color: #333;
+}
+
+.dropdown-submenu:hover > a:after {
+  border-left-color: #555;
+} */
+/* 結束新增 */
+
+/* 确保这是你现有的CSS文件的一部分，或者新建一个文件，并在你的布局中引用它 */
+/* 通用样式 */
+.navbar-custom .dropdown:hover .dropdown-menu,
+.navbar-custom .dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu > a:after {
+  display: block;
+  content: " ";
+  float: right;
+  border: solid transparent;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #ccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+  border-left-color: #fff;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu > a:after {
+  content: " ";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: .255em;
+  vertical-align: .255em;
+  border: .3em solid transparent;
+  border-left-color: #333;
+}
+
+.dropdown-submenu:hover > a:after {
+  border-left-color: #555;
+}
+/* 結束滑鼠滑過顯示選單的css新增 */
 @media (prefers-color-scheme: dark) {
   body {
     background: black;

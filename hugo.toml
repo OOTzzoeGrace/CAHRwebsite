@@ -18,13 +18,13 @@ publishDir = "docs"
 
 [Params]
   homeTitle = "中華國際人權促進會" # Set a different text for the header on the home page
-  subtitle = "漂亮美麗的subtitle"
+  subtitle = "國際青少年人權協會 台灣分會"
   mainSections = ["post","posts"]
   logo = "img/cahr-icon.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   wordCount = true
@@ -37,66 +37,101 @@ publishDir = "docs"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = "Sphere"
+  # position: see values of CSS background-position.
+  position = "center top"
+[[Params.bigimg]]
+ src = "img/hexagon.jpg"
+ desc = "Hexagon"
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
+  name = "協會小編"
+  website = "https://yhritw.org/"
+  email = "cahr1210@gmail.com"
+  facebook = "yhritw.org"
+  # github = "username"
+  # gitlab = "username"
+  # bitbucket = "username"
+  # twitter = "username"
+  # reddit = "username"
+  # linkedin = "username"
+  # xing = "username"
+  # stackoverflow = "users/XXXXXXX/username"
+  # snapchat = "username"
+  # instagram = "username"
+  # youtube = "user/username" # or channel/channelname
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+  # vk = "username"
+  # paypal = "username"
+  # telegram = "username"
+  # 500px = "username"
+  # codepen = "username"
+  # mastodon = "url"
+  # kaggle = "username"
+  # weibo = "username"
+  # slack = "username"
+  # medium = "username"
+  # discord = "invite code (https://discord.gg/XXXXXXX)"
+  # strava = "userid"
+
+
 
 [[menu.main]]
-    name = "Blog"
+    name = "最新消息"
     url = ""
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    identifier = "aboutUs"
+    name = "關於我們"
+    url = "/about/aboutus/"
+    weight = 2
+
+[[menu.main]]
+    parent = "aboutUs"
+    name = "緣起及宗旨"
+    url = "/about/origin-and-purpose/"
+    weight = 1
+
+[[menu.main]]
+    parent = "aboutUs"
+    identifier = "memberIntro"
+    name = "成員介紹"
+    weight = 2
+
+[[menu.main]]
+    parent = "memberIntro"
+    name = "國際人權大使"
+    url = "/about/member-intro/international-human-rights-ambassador/"
+    weight = 1
+
+[[menu.main]]
+    parent = "memberIntro"
+    name = "執行長、職員"
+    url = "/about/member-intro/ceo-and-staff/"
+    weight = 2
+
+[[menu.main]]
+    parent = "memberIntro"
+    name = "理監事"
+    url = "/about/member-intro/directors-and-supervisors/"
     weight = 3
+
 
 [[menu.main]]
     identifier = "samples"
     name = "Samples"
-    weight = 2
+    url = "/samples/"
+    weight = 3
 
 [[menu.main]]
     parent = "samples"
