@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 中華國際人權促進會</title>
-    <link>https://ootzzoegrace.github.io/CAHRwebsite/categories/</link>
+    <link>https://ootzzoegrace.github.io/categories/</link>
     <description>Recent content in Categories on 中華國際人權促進會</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>cahr1210@gmail.com (協會小編)</managingEditor>
     <webMaster>cahr1210@gmail.com (協會小編)</webMaster>
-    <atom:link href="https://ootzzoegrace.github.io/CAHRwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ootzzoegrace.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
